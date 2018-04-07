@@ -3,3 +3,8 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+
+@font-face {
+  font-family: 'Beaufort-Bold';
+  src: local('Beaufort-Bold'), url(./resources/Beaufort-Bold.ttf) format('ttf');
+}

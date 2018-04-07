@@ -3,5 +3,12 @@ body{
 }
 
 html, body {
-  margin: 0; height: 100%; overflow: hidden
+  margin: 0; 
+  height: 100%; 
+  overflow: hidden; 
+  font-family: "Beaufort-Bold", serif;
+}
+
+h1,h2,h3,h4{
+  color: white;
 }
