@@ -1,0 +1,129 @@
+[
+    {
+        "name": "bork",
+        "ad": 40,
+        "as": 25,
+        "ls": 12,
+        "passive": "UNIQUE: Basic attacks deal 8% of the target's current health (min 15) bonus on-hit physical damage (max 60 against minions and monsters).",
+        "active": "UNIQUE: Deals 100 magic damage and steals 25% of the target's movement speed for 3 seconds (550 range) (90 second cooldown).",
+        "gold": 3400
+    },
+    {
+        "name": "bt",
+        "ad": 80,
+        "as": 0,
+        "ls": 20,
+        "passive": "UNIQUE: Your life steal overheals you, converting the excess healing into a shield that absorbs up to 50 - 350 (based on level) damage and decays when out-of-combat for 25 seconds.",
+        "gold": 3700
+    },
+    {
+        "name": "cleaver",
+        "ad": 40,
+        "cdr": 20,
+        "hp": 400,
+        "passive": "UNIQUE: Dealing physical damage to an enemy champion Cleaves them, reducing their armor by 4% for 6 seconds, stacking up to 6 times for a maximum of 24%. UNIQUE – RAGE: Dealing physical damage grants 20 movement speed for 2 seconds. Assists on Cleaved enemy champions or kills on any unit grant 60 movement speed for 2 seconds instead. This movement speed bonus is halved for Ranged role ranged champions.",
+        "gold": 3000
+    },
+    {
+        "name": "death",
+        "ad": 80,
+        "cdr": 10,
+        "passive": "UNIQUE: Instantly heal for 15% of all physical damage dealt. Area of effect physical damage only heals 5% for every unit affected. UNIQUE: Stores 30% of all physical and magic damage received, and is taken as damage over time true damage instead, dealing one-third of the stored damage every second.",
+        "gold": 3500
+    },
+    {
+        "name": "dominik",
+        "ad": 50,
+        "passive": "UNIQUE – GIANT SLAYER: Grants 0% - 20% (based on health difference) bonus physical damage against enemy champions with greater maximum health than you. UNIQUE – LAST WHISPER: + 35% bonus armor penetration.",
+        "gold": 3600
+    },
+    {
+        "name": "duskblade",
+        "ad": 55,
+        "cdr": 10,
+        "passive": "UNIQUE: +18 Lethality (11.2 - 18 (based on level) armor penetration) UNIQUE – NIGHTSTALKER: After being unseen for at least 1 second, your next basic attack against an enemy champion deals 30 - 200 (based on level) bonus on-hit physical damage and Slow icon slows by 99% for 0.25 seconds. The enhanced attack lasts 5 seconds after being seen by an enemy champion.",
+        "gold": 2900
+    },
+    {
+        "name": "edgeofnight",
+        "ad": 55,
+        "hp": 250,
+        "passive": "UNIQUE: +18 Lethality (11.2 - 18 (based on level) armor penetration)",
+        "active": "UNIQUE: Channels for 1.5 seconds to gain a Spell Shield spell shield that blocks the next enemy ability within the next 7 seconds (40 second cooldown). Damage will interrupt the channel. You can move while channeling. If the channel is interrupted, the item is put on a reduced 5 second cooldown.",
+        "gold": 3100
+    },
+    {
+        "name": "ie",
+        "ad": 70,
+        "crit": 20,
+        "passive": "UNIQUE: Critical strike bonus damage is increased by 50%.",
+        "gold": 3400
+    },
+    {
+        "name": "maw",
+        "ad": 50,
+        "cdr": 10,
+        "mr": 45,
+        "passive": "UNIQUE – LIFELINE: If you would take magic damage that would reduce maximum health below 30%, you first gain a shield that absorbs 300 (+ 100% bonus magic resistance) magic damage for 5 seconds (90 second cooldown). UNIQUE – LIFEGRIP: Grants +20 attack damage, +10% spell vamp and +10% life steal until out-of-combat.",
+        "gold": 3250
+    },
+    {
+        "name": "mercurial",
+        "ad": 65,
+        "ls": 10,
+        "mr": 35,
+        "active": "UNIQUE – QUICKSILVER: Removes all crowd control debuffs from your champion and grants +50% movement speed for 1 second (90 second cooldown).",
+        "gold": 3600
+    },
+    {
+        "name": "pd",
+        "as": 45,
+        "crit": 30,
+        "ms": 5,
+        "passive": "UNIQUE – SPECTRAL WALTZ: Grants Ghost ghosting and +7% movement speed while within 550 units of a visible enemy champion. UNIQUE – LAMENT: Grants 12% damage reduction against the last enemy champion hit (ends after 10 seconds out-of-combat).",
+        "gold": 3400
+    },
+    {
+        "name": "rapid",
+        "as": 30,
+        "crit": 30,
+        "ms": 5,
+        "passive": "UNIQUE – FIRECANNON: Your next basic attack gains 35% increased range (up to a maximum of +150 range) and deals 60 - 140 (based on level) bonus on-hit magic damage.",
+        "gold": 2600
+    },
+    {
+        "name": "reaver",
+        "ad": 70,
+        "cdr": 10,
+        "crit": 20,
+        "passive": "UNIQUE: Gain 0% - 20% (based on critical strike chance) additional cooldown reduction. This bonus does not include the critical strike chance given by this item. UNIQUE: Critical strike icon Critical strikes restore 3% of your maximum mana.",
+        "gold": 3400
+    },
+    {
+        "name": "static",
+        "as": 35,
+        "crit": 30,
+        "ms": 5,
+        "passive": "UNIQUE – SHIV LIGHTNING: Your next basic attack (on-hit) sparks lightning to up to 5 nearby units, dealing 60 - 140 (based on level) bonus magic damage.",
+        "gold": 2600
+    },
+    {
+        "name": "triforce",
+        "ad": 25,
+        "as": 40,
+        "cdr": 20,
+        "hp": 250,
+        "ms": 5,
+        "mana": 250,
+        "passive": "UNIQUE – SPELLBLADE: After using an ability, your next basic attack within 10 seconds deals (200% base AD) on-hit bonus damage (1.5 second cooldown). UNIQUE – RAGE: Basic attacks (on-hit) grant +20 flat movement speed for 2 seconds. Killing a unit grants +60 flat movement speed instead. Bonus movement speed is halved on Ranged role ranged champions.",
+        "gold": 3733
+    },
+    {
+        "name": "youmuu",
+        "ad": 66,
+        "cdr": 10,
+        "passive": "UNIQUE: +18 Lethality (11.2 - 18 (based on level) armor penetration) UNIQUE: +40 movement speed out-of-combat.",
+        "active": "UNIQUE: Gain +20% movement speed for 6 seconds (45 second cooldown).",
+        "gold": 2900
+    }
+]
